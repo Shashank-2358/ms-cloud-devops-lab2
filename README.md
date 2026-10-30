@@ -56,7 +56,7 @@ hello-app-bkxfn   IPv4          80      10.244.2.6,10.244.2.5,10.244.1.6 + 1 mor
 
 Add `screenshot.png`: the page at `http://localhost:8080` with at least two Pods in the "Answers so far" table.
 
-![hello-app running with 4 Pods](screenshot.png)
+![hello-app running with 4 Pods](Screenshot.png)
 
 ## 5. The four traps
 
