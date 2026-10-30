@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+}
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 48px 16px;
+}
+h1 { margin: 0 0 32px; }
+.label { margin: 0; color: #94a3b8; }
+.pod {
+  margin: 4px 0 32px;
+  font: 600 1.6rem ui-monospace, monospace;
+  color: #38bdf8;
+  word-break: break-all;
+}
+.error { color: #f87171; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid #334155; }
+td:first-child { font-family: ui-monospace, monospace; }
+tr.now td { color: #38bdf8; }
+.hint { color: #94a3b8; font-size: 0.9rem; margin-top: 24px; }
